@@ -1,0 +1,20 @@
+{
+  "slots": [
+    {
+      "title": "Gamble With Your Friends",
+      "exe": "Gamble With Your Friends.exe",
+      "device": "Геймпад 1"
+    },
+    {
+      "title": "Gamble With Your Friends",
+      "exe": "Gamble With Your Friends.exe",
+      "device": "Клавиатура + мышь"
+    }
+  ],
+  "interval": 250,
+  "spoof": true,
+  "grab": true,
+  "restore": true,
+  "patch_focus": true,
+  "block_pad": true
+}

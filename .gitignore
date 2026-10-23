@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Отладочные дампы, создаются программой во время работы
+focus_keeper_modules.txt
+
+# Персональный конфиг (свои окна/устройства каждого пользователя)
+focus_keeper_config.json
+
+# Windows
+.DS_Store
+Thumbs.db
