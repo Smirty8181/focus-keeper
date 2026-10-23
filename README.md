@@ -1,5 +1,7 @@
 # Focus Keeper
 
+[![Последний релиз](https://img.shields.io/github/v/release/Smirty8181/focus-keeper?label=%D1%80%D0%B5%D0%BB%D0%B8%D0%B7&color=2ea44f)](https://github.com/Smirty8181/focus-keeper/releases/latest)
+
 Утилита для Windows, которая удерживает несколько окон «в фокусе» одновременно — например, для локального кооператива в двух экземплярах одной игры (запущенных через Sandboxie Plus и т. п.).
 
 ## Как работает
